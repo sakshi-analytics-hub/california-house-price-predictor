@@ -15,7 +15,7 @@ A production-ready Linear Regression model deployed as an interactive web applic
 
 [**🚀 Live Demo**](https://california-house-price-predictor-2026.streamlit.app) · [**🐛 Report Bug**](../../issues) · [**✨ Request Feature**](../../issues)
 
-</div>
+
 
 ---
 
@@ -52,9 +52,6 @@ This project demonstrates a complete ML workflow — from **data exploration and
 ## 🎬 Demo
 
 🔗 **Try it live:** [california-house-price-predictor-2026.streamlit.app](https://california-house-price-predictor-2026.streamlit.app)
-
-> Adjust the sliders in the sidebar to input housing characteristics, then click **Predict** to instantly view the estimated median house value.
-
 ---
 
 ## ✨ Key Features
@@ -275,10 +272,8 @@ This project is licensed under the **MIT License** — see the [LICENSE](LICENSE
 
 ---
 
-<div align="center">
 
 **⭐ If you found this project useful, consider giving it a star!**
 
-</div>
-```
+
 

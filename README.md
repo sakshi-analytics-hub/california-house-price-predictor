@@ -7,7 +7,7 @@
 
 A production-ready Linear Regression model deployed as an interactive web application, predicting median house prices in California based on demographic and geographic features.
 
-[![Live App](https://img.shields.io/badge/🌐_Live_App-Visit_Now-success?style=for-the-badge)](https://california-house-price-predictor-2026.streamlit.app)
+[![Live App](https://img.shields.io/badge/Live%20App-Streamlit-FF4B4B?style=flat&logo=streamlit&logoColor=white)](https://california-house-price-predictor-2026.streamlit.app)
 [![Python](https://img.shields.io/badge/Python-3.12-3776AB?style=flat&logo=python&logoColor=white)](https://www.python.org/)
 [![Streamlit](https://img.shields.io/badge/Streamlit-1.59.2-FF4B4B?style=flat&logo=streamlit&logoColor=white)](https://streamlit.io/)
 [![scikit-learn](https://img.shields.io/badge/scikit--learn-1.7.2-F7931E?style=flat&logo=scikit-learn&logoColor=white)](https://scikit-learn.org/)

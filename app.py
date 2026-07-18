@@ -1,9 +1,7 @@
-st.markdown('<meta name="google-site-verification" content="cqX5qvVF9sy4ADtyfna9YjCobU6adCWPy-lQYwuEP-Q" />', unsafe_allow_html=True)
 import streamlit as st
 import numpy as np
 import joblib
 
-st.markdown('<meta name="google-site-verification" content="cqX5qvVF9sy4ADtyfna9YjCobU6adCWPy-lQYwuEP-Q" />', unsafe_allow_html=True)
 saved = joblib.load("house_price_model.pkl")
 model = saved["model"]
 scaler = saved["scaler"]

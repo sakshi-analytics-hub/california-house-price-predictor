@@ -283,6 +283,3 @@ This project is licensed under the **MIT License** — see the [LICENSE](LICENSE
 </div>
 ```
 
-**Two things to edit before pasting:**
-1. **Model Performance section** — I left placeholders since I don't have your actual R²/MAE/RMSE scores. Check your notebook and fill those in for a more complete picture.
-2. **LICENSE file** — this README links to a `LICENSE` file. If you don't have one yet, add it via GitHub: **Add file → Create new file** → name it `LICENSE` → **Choose a license template** → MIT → Commit.

@@ -9,9 +9,9 @@ A production-ready Linear Regression model deployed as an interactive web applic
 
 [![Live App](https://img.shields.io/badge/Live%20App-Streamlit-FF4B4B?style=flat&logo=streamlit&logoColor=white)](https://california-house-price-predictor-2026.streamlit.app)
 [![Python](https://img.shields.io/badge/Python-3.12-3776AB?style=flat&logo=python&logoColor=white)](https://www.python.org/)
-[![Streamlit](https://img.shields.io/badge/Streamlit-1.59.2-FF4B4B?style=flat&logo=streamlit&logoColor=white)](https://streamlit.io/)
+[![Live App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://california-house-price-predictor-2026.streamlit.app)
 [![scikit-learn](https://img.shields.io/badge/scikit--learn-1.7.2-F7931E?style=flat&logo=scikit-learn&logoColor=white)](https://scikit-learn.org/)
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://github.com/sakshi-analytics-hub/california-house-price-predictor/blob/main/LICENSE)
 
 [**🚀 Live Demo**](https://california-house-price-predictor-2026.streamlit.app) · [**🐛 Report Bug**](../../issues) · [**✨ Request Feature**](../../issues)
 
